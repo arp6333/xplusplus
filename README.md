@@ -1,2 +1,2 @@
-# xplusplus
-x++ guides
+# x++
+x++ guides, see Wiki tab
